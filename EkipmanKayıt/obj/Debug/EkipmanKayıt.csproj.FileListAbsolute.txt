@@ -1,0 +1,10 @@
+c:\users\temp\documents\visual studio 2015\Projects\EkipmanKayıtSolition\EkipmanKayıt\bin\Debug\EkipmanKayıt.exe.config
+c:\users\temp\documents\visual studio 2015\Projects\EkipmanKayıtSolition\EkipmanKayıt\bin\Debug\EkipmanKayıt.exe
+c:\users\temp\documents\visual studio 2015\Projects\EkipmanKayıtSolition\EkipmanKayıt\bin\Debug\EkipmanKayıt.pdb
+c:\users\temp\documents\visual studio 2015\Projects\EkipmanKayıtSolition\EkipmanKayıt\obj\Debug\EkipmanKayıt.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2015\Projects\EkipmanKayıtSolition\EkipmanKayıt\obj\Debug\EkipmanKayıt.İlkfrm.resources
+c:\users\temp\documents\visual studio 2015\Projects\EkipmanKayıtSolition\EkipmanKayıt\obj\Debug\EkipmanKayıt.Properties.Resources.resources
+c:\users\temp\documents\visual studio 2015\Projects\EkipmanKayıtSolition\EkipmanKayıt\obj\Debug\EkipmanKayıt.csproj.GenerateResource.Cache
+c:\users\temp\documents\visual studio 2015\Projects\EkipmanKayıtSolition\EkipmanKayıt\obj\Debug\EkipmanKayıt.exe
+c:\users\temp\documents\visual studio 2015\Projects\EkipmanKayıtSolition\EkipmanKayıt\obj\Debug\EkipmanKayıt.pdb
+c:\users\temp\documents\visual studio 2015\Projects\EkipmanKayıtSolition\EkipmanKayıt\obj\Debug\EkipmanKayıt.ServisSurec.resources
